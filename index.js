@@ -1,5 +1,5 @@
-console.log('a')
-console.log('test')
+console.log('wake up')
+console.log('jgosdg')
 var a = 10;
-var b = 10;
-console.log(a + b)
+var c = 10;
+console.log(a+c)
